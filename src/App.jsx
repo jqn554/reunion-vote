@@ -145,7 +145,11 @@ export default function App() {
         width: 400,
         boxShadow: "0 4px 12px rgba(0,0,0,0.1)"
       }}>
-        <h1 style={{ textAlign: "center" }}>Cousin Reunion Vote</h1>
+        <h1>
+          Cousin Reunion
+          <br />
+          Vote
+        </h1>
 
         <input
           placeholder="Your name"
